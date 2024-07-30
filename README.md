@@ -38,7 +38,7 @@ A series of creative and challenging projects designed to enhance my coding skil
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ServerSync&show_icons=true&theme=radical)
+![ServerSync](https://github-readme-stats.vercel.app/api?username=ServerSync&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 
@@ -48,7 +48,7 @@ A series of creative and challenging projects designed to enhance my coding skil
 
 ## 📝 Blog & Writing
 
-Check out my latest articles and tutorials on [Your Blog](https://github.com/ServerSync).
+Check out my latest articles and tutorials on [Blog UnderConstruction](https://github.com/ServerSync).
 
 ## 👨‍💻 About Me
 
