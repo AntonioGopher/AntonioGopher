@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experie
   ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
 ## 📌 Featured Projects
 
 ### [Project 1: CLI Video Downloader](https://github.com/ServerSync/DanielaWytte)
