@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experie
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
 ## 📌 Featured Projects
 
 ### [Project 1: CLI Video Downloader](https://github.com/ServerSync/DanielaWytte)
