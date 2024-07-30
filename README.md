@@ -42,9 +42,9 @@ A series of creative and challenging projects designed to enhance my coding skil
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tonho/)
-- **Twitter:** [@yourhandle](https://x.com/ServerSync_)
-- **Email:** [youremail@example.com](mailto:tonhodubois@gmail.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tonho/)
+- **Twitter:** [Twitter](https://x.com/ServerSync_)
+- **Email:** [Email](mailto:tonhodubois@gmail.com)
 
 ## 📝 Blog & Writing
 
