@@ -20,23 +20,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experie
 
 </div>
 
-## 📌 Featured Projects
-
-### [Project 1: CLI Video Downloader](https://github.com/ServerSync/DanielaWytte)
-A command-line application that downloads TikTok videos and runs in the background, fetching videos daily at a specified time.
-- **Technologies:** C#, .NET, HttpClient
-- **Features:** Scheduled video downloads, Background execution
-
-### [Project 2: Discord Bot](https://github.com/ServerSync/DanielaWytte)
-A Discord bot developed in C# to interact with users, perform various tasks, and integrate with other APIs.
-- **Technologies:** C#, Discord.Net
-- **Features:** Command handling, API integration
-
-### [Project 3: Gamified Learning Projects](https://github.com/ServerSync/DanielaWytte)
-A series of creative and challenging projects designed to enhance my coding skills and impress potential recruiters.
-- **Technologies:** C#, various libraries
-- **Features:** Interactive games, Algorithm challenges
-
 ## 📈 GitHub Stats
 
 ![ServerSync](https://github-readme-stats.vercel.app/api?username=ServerSync&show_icons=true&theme=radical)
