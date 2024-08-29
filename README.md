@@ -19,7 +19,7 @@
 
 ## 📈 GitHub Stats
 
-![ServerSync](https://github-readme-stats.vercel.app/api?username=ServerSync&show_icons=true&theme=radical)
+![ServerSync](https://github-readme-stats.vercel.app/api?username=AppsecIO&show_icons=true&theme=radical)
 
 
 
